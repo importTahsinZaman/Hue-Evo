@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/megabot.mp3-8dbd0fe75552a231dafe05e010c7f1b1.mp3str"
+
+[deps]
+
+source_file="res://Assets/megabot assets files/mega bot music/megabot.mp3"
+dest_files=[ "res://.import/megabot.mp3-8dbd0fe75552a231dafe05e010c7f1b1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/megabot.ogg-b51949cfced742f69a8c324c50d6a5c4.oggstr"
+
+[deps]
+
+source_file="res://Assets/megabot assets files/mega bot music/megabot.ogg"
+dest_files=[ "res://.import/megabot.ogg-b51949cfced742f69a8c324c50d6a5c4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
